@@ -1,0 +1,6 @@
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\bin\Debug\RomaNumbers.exe.config
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\bin\Debug\RomaNumbers.exe
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\bin\Debug\RomaNumbers.pdb
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\obj\Debug\RomaNumerals.csprojResolveAssemblyReference.cache
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\obj\Debug\RomaNumbers.exe
+c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\obj\Debug\RomaNumbers.pdb
