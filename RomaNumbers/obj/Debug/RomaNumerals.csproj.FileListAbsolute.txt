@@ -7,3 +7,6 @@ c:\users\unalman\documents\visual studio 2013\Projects\RomaNumbers\RomaNumbers\o
 C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\bin\Debug\RomaNumbers.exe.config
 C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\obj\Debug\RomaNumbers.exe
 C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\obj\Debug\RomaNumbers.pdb
+C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\bin\Debug\RomaNumbers.exe
+C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\bin\Debug\RomaNumbers.pdb
+C:\Users\unalman\Documents\GitHub\Rome-Numerals\RomaNumbers\obj\Debug\RomaNumerals.csprojResolveAssemblyReference.cache
